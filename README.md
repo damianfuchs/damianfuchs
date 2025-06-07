@@ -3,7 +3,7 @@
 <h2> ¡Hola! Soy Damián Fuchs <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h2>
 
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mi
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> Sobre mí
 
 - 👨‍💻 Apasionado por la tecnología, en constante aprendizaje y exploración de nuevas herramientas para mejorar mis habilidades como desarrollador.
 - 🎓 Cursando la Licenciatura en Sistemas de Información.
@@ -48,7 +48,12 @@
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
+---
 
+## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 30px>  </picture> Estadisticas de Github
+
+[![](https://github-readme-stats.vercel.app/api?username=damianfuchs&show_icons=true&theme=tokyonight&hide_border=true&locale=en)](https://github.com/damianfuchs)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=damianfuchs&theme=material-palenight)](https://github.com/damianfuchs)
 
 
 
